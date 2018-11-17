@@ -8,10 +8,8 @@ const sortByOptions = {
 }
 
 class SearchBar extends React.Component {
-	render() {
-		return (
-
-			)
+	renderSortByOptions() {
+		
 	}
 }
 
